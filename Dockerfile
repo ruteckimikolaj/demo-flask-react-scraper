@@ -1,5 +1,5 @@
 FROM node:12
-MAINTAINER Benjamin Knox "bknox.contact@gmail.com"
+MAINTAINER Mikolaj Rutecki "ruteckimikolaj@gmail.com"
 
 ENV LC_ALL C.UTF-8
 ENV LANG en_US.UTF-8
